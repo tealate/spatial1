@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028305, g: 0.22571313, b: 0.3069213, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -524,7 +524,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: GolfCart (3)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: -2193212088823219482, guid: cd0fb1707ad2c4d428c7f1688c2dbe49, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: cd0fb1707ad2c4d428c7f1688c2dbe49, type: 3}
 --- !u!1001 &1700965794
 PrefabInstance:
