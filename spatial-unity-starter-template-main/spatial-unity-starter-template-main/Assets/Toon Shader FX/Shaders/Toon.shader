@@ -27,7 +27,8 @@
 		{
 			Tags
 			{
-				"LightMode" = "ForwardBase"
+				"LightMode" = "UniversalForward"
+				"RenderPipeline" = "UniversalPipeline"
 			}
 
 			CGPROGRAM
@@ -42,9 +43,10 @@
 		}
 		
 		Pass {
+			Name "ForwardLit"
 			Tags
 			{
-				"LightMode" = "ForwardAdd"
+			"LightMode" = "UniversalForward"
 			}
 
             Blend One One
