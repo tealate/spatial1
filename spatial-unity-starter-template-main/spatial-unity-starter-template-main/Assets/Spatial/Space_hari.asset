@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: Space_hari
   m_EditorClassIdentifier: 
   version: 0
-  sku: 
+  sku: 64be2e89c03cdbff10ba8b43
   packageName: Space_hari
   thumbnail: {fileID: 2800000, guid: 8556be473992b42dbb7035908e118623, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
-  worldID: 
+  worldID: Y48KVH20a2Il_gkNjiAjA
   scene: {fileID: 102900000, guid: ad1ce70d586544a47b9202d63ee6b2b1, type: 3}
